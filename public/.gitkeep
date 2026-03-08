@@ -1,0 +1,3 @@
+# Add your resume PDF here
+# Copy your Rahul_Madhusudan_Resume.pdf to this folder
+# Then update the resumeUrl in data/portfolio-data.ts to point to it
