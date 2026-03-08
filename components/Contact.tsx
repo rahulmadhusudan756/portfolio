@@ -51,7 +51,7 @@ export default function Contact() {
   ];
 
   return (
-    <Section id="contact" className="py-24 bg-gradient-to-br from-slate-50 to-purple-50">
+    <Section id="contact" className="py-24">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
