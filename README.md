@@ -18,26 +18,6 @@ I'm a Computer Science student at Ramaiah Institute of Technology, specializing 
 - **Databases**: MongoDB, MySQL
 - **Core**: Data Structures, Algorithms, Machine Learning, Full-Stack Development
 
-## Tech Stack
-
-- **Framework**: [Next.js 14](https://nextjs.org/) (App Router)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Deployment**: [Vercel](https://vercel.com/)
-
-## Features
-
-- Modern, professional design
-- Fully responsive (mobile, tablet, desktop)
-- Dark mode optimized
-- Smooth animations and transitions
-- Fast loading with Next.js
-- SEO optimized
-
-
-
 ## Contact
 
 - **Email**: rahulmadhusudan756@gmail.com
